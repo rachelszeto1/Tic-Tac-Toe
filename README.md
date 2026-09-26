@@ -21,4 +21,4 @@ Play against a randomized computer opponent, with ASCII art rendering the board 
 Enter the number (1–9) of the square you want to mark, based on standard Tic-Tac-Toe numbering (left to right, top to bottom). Type `HELP` at any time to see a legend of the symbols.
 
 ## Notes
-This was created and submitted to College Board for AP CS Principles. There's MANY things wrong with the format of how I coded the program, but it works fine.
+This was created and submitted to College Board for AP CS Principles. The code is extremely redundant and crude, but it works fine.
