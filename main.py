@@ -1,6 +1,5 @@
 import random
 import os
-from colorama import Fore
 import time
 TTT_board = ["_","_","_","_","_","_","_","_","_"]
 
